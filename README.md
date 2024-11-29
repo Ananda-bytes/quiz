@@ -1,16 +1,14 @@
-# quiz
+#  Quiz App
 
-A new Flutter project.
+This is a basic quiz app where user can test knowledge 
+<br>
+taking quiz. For now questions for the quiz is static with four options each question.
+<br>
+The user can select one answer if the user select the correct answer app shows the answer 
+button with tick icon in green color and border as well as. 
+If the user select the wrong answer app shows the wrong answer with cross icon in red and shows correct 
+answers also to user.
 
-## Getting Started
+<br>
+After taking quiz app shows the score of the quiz and percentage of the correct answer.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
